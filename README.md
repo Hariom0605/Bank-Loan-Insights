@@ -1,4 +1,4 @@
-#🏦 Bank Loan Report Dashboard
+🏦 Bank Loan Report Dashboard
 
 This project presents an interactive Bank Loan Report Dashboard built for analyzing loan applications, funded amounts, repayments, and loan performance. The dashboard provides a comprehensive view of loan data through visual insights, metrics, and drill-down analysis.
 
